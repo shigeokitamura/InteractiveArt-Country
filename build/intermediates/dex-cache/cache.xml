@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/libs/jbox2d-library-2.2.1-ds.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="03863d6332303c24bfb5c7ad6e0a8263d5e2d556">
+        <dex dex="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/build/intermediates/pre-dexed/debug/jbox2d-library-2.2.1-ds-35310f4e6311cec3e89a0306c0144a3d0411890a.jar" />
+    </item>
+    <item
+        jar="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/build/intermediates/pre-dexed/debug/classes-793030f71f3994448329ea93f2787e14324d0830.jar" />
+    </item>
+    <item
+        jar="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/build/intermediates/pre-dexed/debug/classes-6792ce3cbf5f2fe9f97d1fb544cd2e5c9e725b99.jar" />
+    </item>
+    <item
+        jar="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-b3a02d1669b8a7054261e06abc00033a3acb8209.jar" />
+    </item>
+    <item
+        jar="/Users/kitamrua/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-f77d2fad4eccf2957eac09441b6f442985d738b4.jar" />
+    </item>
+    <item
+        jar="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/libs/processing-core.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="ae40e747a30f825651ca69f9fc9ade8d1b18c89b">
+        <dex dex="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/build/intermediates/pre-dexed/debug/processing-core-22187eba9843ea5b22742dd6ee90a16e451271d4.jar" />
+    </item>
+    <item
+        jar="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/libs/box2d_processing.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="61e180715422740c1180039378f5cf9ef96479c2">
+        <dex dex="/Users/kitamrua/AndroidStudioProjects/Kadai12/app/build/intermediates/pre-dexed/debug/box2d_processing-1ac763cef7fbf6fb7a8b6d7e31b6c3b0ff657c21.jar" />
+    </item>
+
+</items>
